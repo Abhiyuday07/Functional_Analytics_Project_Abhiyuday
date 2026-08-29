@@ -49,7 +49,7 @@ To run the notebook, you will need the following Python libraries:
 
 
 
-Supply Chain Analysis — Power BI Dashboard Project
+**Supply Chain Analysis — Power BI Dashboard Project**
 
 An interactive Power BI dashboard analyzing product, supplier, inventory, and logistics data to surface revenue, quality, and profitability insights across a supply chain.
 
@@ -120,8 +120,5 @@ supply_chain_data.csv	Raw dataset
 supply_chain_clean_data.csv	Cleaned dataset with derived fields
 Supply_Chain_Analysis_Report.docx	Detailed project report
 Supply_Chain_Analysis_Presentation.pptx	Presentation deck
-👥 Authors
-Abhiyuday Sharma — Registration No. 12508368
-Bhaveen Kumar — Registration No. 12506979
-
-Mittal School of Business, Lovely Professional University
+👥 Author
+Abhiyuday Sharma
